@@ -1,2 +1,12 @@
+/* Add any necessary styling here */
+div {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+button, div, span, p, input, cite, code, h1, sup, sub {
+  display: inline-block;
+}
 
 /* Your CSS Code here. */
